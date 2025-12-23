@@ -1,0 +1,7 @@
+{
+  "name": "roblox-discord-relay",
+  "type": "module",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
